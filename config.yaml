@@ -1,0 +1,7 @@
+DATA:
+   input_path: 'C://Users//vinita.phadke//OneDrive - Fractal Analytics Pvt. Ltd//Documents//Personal//Resume building//[External]_Fwd__Thomson_Reuters_Interview_Invitation//Data challenge//data//raw//TRDCdata.txt' ##user input required: specify full input path for raw data
+   intermediate_path: ''
+   output_path: 'C://Users//vinita.phadke//OneDrive - Fractal Analytics Pvt. Ltd//Documents//Personal//Resume building//[External]_Fwd__Thomson_Reuters_Interview_Invitation//Data challenge//data//processed' 
+
+MODEL:
+   model_path: 'C://Users//vinita.phadke//OneDrive - Fractal Analytics Pvt. Ltd//Documents//Personal//Resume building//[External]_Fwd__Thomson_Reuters_Interview_Invitation//Data challenge//models'
