@@ -1,11 +1,11 @@
-***Exploratory solution for automated labelling of Procedural Postures** 
+*** Exploratory solution for automated labelling of Procedural Postures** 
 
 This readme.md file gives a step by step guide to reproduce the exploratory solution developed
 
 Below is the folder structure for the solution
 
 
-├── README.md          <- The top-level README for developers using this project.
+├── README.md          <- The top-level README for developers using this project. <br>
 ├── config.yaml        <- yaml file to specify input/output data and model paths
 ├── data
 │   ├── interim        <- Intermediate data that has been transformed.
