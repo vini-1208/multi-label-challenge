@@ -4,7 +4,7 @@ This readme.md file gives a step by step guide to reproduce the exploratory solu
 
 Below is the folder structure for the solution
 
-
+```bash
 ├── README.md          <- The top-level README for developers using this project. <br>
 ├── config.yaml        <- yaml file to specify input/output data and model paths
 ├── data
@@ -35,7 +35,7 @@ Below is the folder structure for the solution
 │   │
 │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
 │       └── visualize.py
-
+```
 
 
 
