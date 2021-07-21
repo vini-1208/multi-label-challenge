@@ -15,7 +15,7 @@ Below is the folder structure for the solution
 ├── README.md          - The top-level README for developers using this project 
 ├── multi_label_classification.ipynb - Notebook that loads src modules to perform entire preprocessing, visualization to modelling
 ├── config.yaml        - yaml file to specify input/output data and model paths
-├── data               - this folder in git repo is empty, but ideally we will have raw data contained in raw folder. After processing, the data will get generated under processed folder
+├── data               - this folder on git repo contains empty files but ideally will have raw data contained in raw folder. After processing, the data will get generated under processed folder
 │   ├── processed      - The final, canonical data sets for modeling
 │   └── raw            - The original raw data dump
 ├── models             - Trained and serialized models
